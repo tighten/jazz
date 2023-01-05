@@ -1,10 +1,12 @@
-# jazz
+# Jazz
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/tightenco/jazz.svg?style=flat-square)](https://packagist.org/packages/tightenco/jazz)
-[![GitHub Tests Action Status](https://img.shields.io/github/workflow/status/tighten/jazz/run-tests?label=tests)](https://github.com/tighten/jazz/actions?query=workflow%3Arun-tests+branch%3Amain)
+[![GitHub Tests Action Status](https://img.shields.io/github/actions/workflow/status/tighten/jazz/run-tests?label=tests&branch=main)](https://github.com/tighten/jazz/actions?query=workflow%3Arun-tests+branch%3Amain)
 
 
-Short description here, and maybe small justification of why it's valuable.
+JavaScript-inspired conveniences for PHP programmers.
+
+Mainly for use by @mattstauffer in programming live streams, but it may eventually be helpful elsewhere? Maybe.
 
 ## Installation
 
