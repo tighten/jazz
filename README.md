@@ -1,9 +1,8 @@
-# :package_fullname
+# jazz
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/tightenco/:package_name.svg?style=flat-square)](https://packagist.org/packages/tightenco/:package_name)
-[![GitHub Tests Action Status](https://img.shields.io/github/workflow/status/tighten/:package_name/run-tests?label=tests)](https://github.com/tighten/:package_name/actions?query=workflow%3Arun-tests+branch%3Amain)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/tightenco/jazz.svg?style=flat-square)](https://packagist.org/packages/tightenco/jazz)
+[![GitHub Tests Action Status](https://img.shields.io/github/workflow/status/tighten/jazz/run-tests?label=tests)](https://github.com/tighten/jazz/actions?query=workflow%3Arun-tests+branch%3Amain)
 
-**Note:** Replace ```:author_name``` ```:author_username``` ```:author_email``` ```:package_name``` ```:package_description``` ```:package_php_namespace``` with their correct values in [README.md](README.md), [composer.json](composer.json), and all three files under `src/`, then delete this line.
 
 Short description here, and maybe small justification of why it's valuable.
 
@@ -12,7 +11,7 @@ Short description here, and maybe small justification of why it's valuable.
 You can install the package via composer:
 
 ```bash
-composer require tightenco/:package_name
+composer require tightenco/jazz
 ```
 
 ## Usage
@@ -37,7 +36,7 @@ If you discover any security related issues, please email hello@tighten.co inste
 
 ## Credits
 
-- [:author_name](https://github.com/:author_username)
+- [Matt Stauffer](https://github.com/mattstauffer)
 - [All Contributors](../../contributors)
 
 ## License
