@@ -1,7 +1,7 @@
 # Jazz
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/tightenco/jazz.svg?style=flat-square)](https://packagist.org/packages/tightenco/jazz)
-[![GitHub Tests Action Status](https://img.shields.io/github/actions/workflow/status/tighten/jazz/run-tests?label=tests&branch=main)](https://github.com/tighten/jazz/actions?query=workflow%3Arun-tests+branch%3Amain)
+[![GitHub Tests Action Status](https://img.shields.io/github/actions/workflow/status/tighten/jazz/.github/workflows/tests.yml?branch=main&label=tests)](https://github.com/tighten/jazz/actions?query=workflow%3Arun-tests+branch%3Amain)
 
 
 JavaScript-inspired conveniences for PHP programmers.
